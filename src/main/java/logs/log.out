@@ -1,0 +1,32 @@
+2021-12-24 02:12:514 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-24 02:12:551 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-24 02:12:537 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (2a65b60d4a34e6a87f8a27c46be8b16f)] -> id: nav-search-submit-button]<br>
+2021-12-24 02:12:564 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-24 02:12:730 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-24 02:12:977 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (8edf719ebd3ee08a8d503b6939922873)] -> id: nav-search-submit-button]<br>
+2021-12-24 02:12:507 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-24 02:12:292 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-24 02:12:806 INFO  HomePage :27 - Entering data in the search box :Mobile phone<br>
+2021-12-24 02:12:64 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (0cf0803facc702e21317db799ef0953c)] -> id: nav-search-submit-button]<br>
+2021-12-25 00:12:804 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-25 00:12:752 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-25 00:12:945 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (784983126b7f452d7965e745c2a97a0b)] -> id: nav-search-submit-button]<br>
+2021-12-25 00:12:666 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-25 00:12:525 INFO  HomePage :27 - Entering data in the search box :Mobile phone<br>
+2021-12-25 00:12:281 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (b6bb4ae584304b97e7f8580f625992ea)] -> id: nav-search-submit-button]<br>
+2021-12-25 00:12:820 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-25 00:12:147 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-25 00:12:139 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (82ade756ec71c118eae850b51311f0bb)] -> id: nav-search-submit-button]<br>
+2021-12-27 20:12:419 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-27 20:12:761 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-27 20:12:270 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (75bc65c738eb9a22cf50ea747335a232)] -> id: nav-search-submit-button]<br>
+2021-12-27 20:12:469 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-27 20:12:891 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-27 20:12:351 INFO  HomePage :27 - Entering data in the search box :Mobile phone<br>
+2021-12-27 20:12:206 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (65a7af2eb8745caaf1821a71ea421137)] -> id: nav-search-submit-button]<br>
+2021-12-27 20:12:199 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-27 20:12:387 INFO  HomePage :27 - Entering data in the search box :Laptop<br>
+2021-12-27 20:12:25 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (4eddd86f9c0f8ce41790deffeb38c496)] -> id: nav-search-submit-button]<br>
+2021-12-27 20:12:921 INFO  ManageDriver :35 - Launching Chrome Browser
+2021-12-27 20:12:57 INFO  HomePage :27 - Entering data in the search box :Mobile phone<br>
+2021-12-27 20:12:788 INFO  HomePage :31 - click on the search :[[ChromeDriver: chrome on WINDOWS (97c9253ee07276f79c0bf426c3ffbfe4)] -> id: nav-search-submit-button]<br>
